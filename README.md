@@ -1,12 +1,5 @@
 # Walmart-China-Operations-Analysis
-   Candidate No-630498
- Module Name: International Business Strategy
-Module Code: BSM936
-Submitted by:
-Student Number: 210287787
-1
  
-   Candidate No-630498
 Walmart in China
 Walmart first entered the Chinese market in 1996 through a joint venture with a local business, according to a report by (The New York Times ,2019). The retail behemoth has expanded since then, opening more than 400 locations in more than 180 cities, making it one of the biggest international retailers in the nation. (Liu and Wei ,2019) point out that Walmart has encountered many difficulties in China, including fierce rivalry from local merchants, cultural disparities, and governmental regulations. The Chinese government has recently passed new laws designed to safeguard regional companies and advance homegrown brands. For foreign retailers like Walmart, operating in the nation has become more difficult as a result of these laws.
 Figure 1: Walmart in China(Walmart,2021)
